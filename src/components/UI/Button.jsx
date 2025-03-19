@@ -8,10 +8,12 @@ export const Button = ({children, onClick}) => {
 }
 
 const StyledButton = styled.button`
-    color: white;
-    background-color: blue;
+    color: "#BDBDBD";
+    background-color:#757575 ;
     border: 0;
     cursor: pointer;
     padding: 10px;
     border-radius: 10px;
 `
+//  border: "#BDBDBD";
+// color: #757575;
